@@ -1,35 +1,35 @@
-.p1{
+.p1 {
     background-color: aqua;
     border: solid 3px;
 }
 
-.p2{
+.p2 {
     background-color: white;
     border-style: dashed;
     border-color: black;
     border-width: 3px;
 }
 
-.p3{
+.p3 {
     background-color: white;
     border-width: 3px;
-    border-top: dashed;
-    border-right: double;
-    border-left: solid;
-    border-bottom: dotted;
+    border-top-style: dashed;
+    border-right-style: double;
+    border-left-style: solid;
+    border-bottom-style: dotted;
 }
 
-.p4{
+.p4 {
     background-color: white;
     border-style: solid;
     border-width: 3px;
-    border-top: red;
-    border-right: violet;
-    border-bottom: blue;
-    border-left: green;
+    border-top-color: red;
+    border-right-color: violet;
+    border-bottom-color: blue;
+    border-left-color: green;
 }
 
-.geral{
-    font-style: arial;
+.geral {
+    font-family: Arial, sans-serif;
     background-color: beige;
 }
